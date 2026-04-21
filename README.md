@@ -4,7 +4,7 @@
 
 | Section | Contenu |
 |---------|---------|
-| [Cours](/cours/) | Supports de formation |
+| [Cours](/CyberSec-cours/) | Supports de formation |
 | [CTFs](/ctfs/) | Write-ups TryHackMe et challenges |
 | [Labs](/labs/) | TP pratiques et exercices |
 | [Docs](/docs/) | Méthodologies, cheatsheets |
