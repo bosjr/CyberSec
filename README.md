@@ -2,11 +2,11 @@
 
 | Section | Contenu |
 |--------|--------|
-| [Cours](https://github.com/<user>/cours-cybersec) | Supports |
-| [CTF](https://github.com/<user>/ctf-writeups) | Write-ups |
-| [Labs](https://github.com/<user>/labs-cybersec) | TP |
-| [Projets](https://github.com/<user>/decouverte-git-docker-securite) | Projets |
-| [Ressources](https://github.com/<user>/ressources-cyber) | Outils |
+| [Cours](https://github.com/bosjr/cours-cybersec) | Supports |
+| [CTF](https://github.com/bosjr/ctf-writeups) | Write-ups |
+| [Labs](https://github.com/bosjr/labs-cybersec) | TP |
+| [Projets](https://github.com/bosjr/decouverte-git-docker-securite) | Projets |
+| [Ressources](https://github.com/bosjr/ressources-cyber) | Outils |
 
 ## Licence
 - Code et scripts : **MIT License**  
