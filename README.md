@@ -13,7 +13,6 @@
 | [Ressources](https://github.com/bosjr/CyberSec-ressources) | Ressources |
 
 ## Objectif
-
 Ce dépôt sert de point d’entrée unique vers :
 
 des projets pédagogiques
